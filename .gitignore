@@ -1,0 +1,5 @@
+/images
+*.xml
+*.zip
+/data/yolo.h5
+/data/coco_classes.txt
